@@ -5,6 +5,7 @@
     <!--   <string name="he_lang" translatable="false">Hebrew</string> -->
     <!--    <string name="ga_lang" translatable="false">Irish</string> -->
     <!--    <string name="ja_lang" translatable="false">Japanese</string> -->
+    <string name="treatmentssafety_title">Traitements de sécurité</string>
     <string name="treatmentssafety_maxbolus_title">Maximum Bolus autorisé [U]</string>
     <string name="treatmentssafety_maxcarbs_title">Maximum de Glucides autorisé [g]</string>
     <string name="nav_preferences">Préférences</string>
@@ -267,6 +268,8 @@ L\'ENSEMBLE DES RISQUES LIÉS À LA QUALITÉ ET À LA PERFORMANCE DU PROGRAMME S
     <string name="smscommunicator_stoppedsms">Service de commande à distance SMS arrêté. Pour le réactiver, utilisez AAPS sur le smartphone maitre.</string>
     <string name="smscommunicator_calibrationreplywithcode">Renvoyer le code %2$s pour envoyer la calibration %1$.2f</string>
     <string name="smscommunicator_bolusfailed">Échec du Bolus</string>
+    <string name="smscommunicator_remotebolusmindistance_summary">Nombre minimum de minutes qu\'il doit y avoir entre un bolus distant et le suivant</string>
+    <string name="smscommunicator_remotebolusmindistance">Combien de minutes doit-il y avoir, au minimum, entre un bolus et le suivant</string>
     <string name="smscommunicator_remotebolusmindistance_caveat">Pour votre sécurité, pour modifier cette préférence vous devez ajouter au moins 2 numéros de téléphone.</string>
     <string name="bolusdelivered">Bolus %1$.2fU délivré avec succès</string>
     <string name="bolusrequested">%1$.2fU vont être injectées</string>
@@ -1392,4 +1395,7 @@ L\'ENSEMBLE DES RISQUES LIÉS À LA QUALITÉ ET À LA PERFORMANCE DU PROGRAMME S
     <string name="format_carbs">%1$dg</string>
     <string name="common_on">On</string>
     <string name="common_off">Off</string>
+    <string name="objectives_button_unfinish">Suppression terminée</string>
+    <string name="objectives_button_unstart">Suppression démarrée</string>
+    <string name="doyouwantresetstart">Voulez-vous réinitialiser le début de l\'objectif ? Vous risquez de perdre vos progrès.</string>
 </resources>
